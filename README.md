@@ -6,6 +6,6 @@
 
 ## Наставник GeekBrains: Евгений Пашков
 
-## Еще работаю над сайтом
+## Готово
 
 ### [Ссылка на index.html](https://efrem005.github.io/geektools/index.html)
